@@ -1,3 +1,14 @@
 git commands
 git config user.name "praneethpractice1"
 git config creential.username "praneethpractice1"
+here it was asking "github" credentials
+user id: praneethpractice1@gmail.com
+pswd: anusree#1234
+git status
+git push //generally if any document prepare directly we can push the code, if any changes in jenkins or any other folders first we can pull the code after that we can push the code.
+git add .
+git commit -m "adding"
+git push origin main (or) git push
+or git pull
+git status 
+git push

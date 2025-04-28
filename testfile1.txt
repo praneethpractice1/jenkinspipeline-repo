@@ -1,0 +1,3 @@
+git commands
+git config user.name "praneethpractice1"
+git config creential.username "praneethpractice1"
